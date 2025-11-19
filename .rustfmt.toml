@@ -1,0 +1,15 @@
+comment_width = 100
+edition = "2024"
+error_on_line_overflow = true
+format_code_in_doc_comments = true
+group_imports = "StdExternalCrate"
+imports_granularity = "Module"
+max_width = 100
+newline_style = "Unix"
+normalize_comments = true
+normalize_doc_attributes = true
+reorder_impl_items = true
+reorder_imports = true
+reorder_modules = true
+style_edition = "2024"
+wrap_comments = true
